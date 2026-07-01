@@ -81,13 +81,7 @@ Ficha ejecutiva de cada comuna con indicadores históricos, comparación naciona
 
 ![Comunal](Imagenes/Perfil_Comunal.png)
 
----
 
-## Arquitectura Técnica
-
-Documentación visual de la solución desarrollada.
-
-![Arquitectura](Imagenes/Arquitectura_tecnica.png)
 
 ## Estructura
 
