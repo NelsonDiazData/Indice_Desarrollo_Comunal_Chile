@@ -1,0 +1,13 @@
+sector,codigo_indicador,nombre_indicador
+Educacion,EEE.03.01.000.000.000,Patentes y Tasas por Derechos
+Educacion,EEE.03.02.999.000.000,Permisos y Licencias
+Educacion,EEE.03.03.000.000.000,Participación en Impuesto Territorial
+Educacion,EEE.05.03.000.000.000,Transferencias de Otras Entidades Públicas
+Educacion,EEE.08.03.000.000.000,Participación Fondo Común Municipal
+Educacion,EEE.13.03.000.000.000,Transferencias de Capital de Otras Entidades Públicas
+Municipal,115.03.01.000.000.000,Patentes y Tasas por Derechos
+Municipal,115.03.02.000.000.000,Permisos y Licencias
+Municipal,115.03.03.000.000.000,Participación en Impuesto Territorial
+Municipal,115.05.03.000.000.000,Transferencias de Otras Entidades Públicas
+Municipal,115.08.03.000.000.000,Participación Fondo Común Municipal
+Salud,SSS.05.03.000.000.000,Transferencias de Otras Entidades Públicas
