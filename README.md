@@ -47,7 +47,7 @@ Las principales etapas son:
 6. Carga hacia SQL Server.
 7. Consumo desde Power BI.
 
-![Pipeline](Documentación/Pipeline.png)
+![Pipeline](Documentación/Pipeline_ETL.png)
 
 ## Modelo Dimensional
 
